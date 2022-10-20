@@ -1,0 +1,16 @@
+﻿<Window x:Class="HTML_hemsida_WPF__GUI_för_programmerare_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HTML_hemsida_WPF__GUI_för_programmerare_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name = "FormLayoutGrid" Background = "White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "*" />
+            <RowDefinition Height = "60" />
+        </Grid.RowDefinitions>        <TextBlock x:Name="Output" Grid.Row="0" Text="HemsideGenerator output" Margin="10"                   HorizontalAlignment="Left" VerticalAlignment="Center" Width="800" Height="300"></TextBlock>        <StackPanel Orientation="Horizontal" Grid.Row="1">            <Button Name="NyHemsida" Width="100" Click="NyHemsida_Click">Ny hemsida</Button>            <Button Name="LaddaInHemsida" Width="100" Click="LaddaInHemsida_Click">Ladda in hemsida</Button>            <Button Name="Spara" Width="100" Click="Spara_Click">Spara</Button>        </StackPanel>
+        
+    </Grid>
+</Window>
