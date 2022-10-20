@@ -10,7 +10,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height = "*" />
             <RowDefinition Height = "60" />
-        </Grid.RowDefinitions>        <TextBlock x:Name="Output" Grid.Row="0" Text="HemsideGenerator output" Margin="10"                   HorizontalAlignment="Left" VerticalAlignment="Center" Width="800" Height="300"></TextBlock>        <StackPanel Orientation="Horizontal" Grid.Row="1">            <Button Name="NyHemsida" Width="100" Click="NyHemsida_Click">Ny hemsida</Button>            <Button Name="LaddaInHemsida" Width="100" Click="LaddaInHemsida_Click">Ladda in hemsida</Button>            <Button Name="Spara" Width="100" Click="Spara_Click">Spara</Button>        </StackPanel>
+        </Grid.RowDefinitions>        <TextBox x:Name="Output" Grid.Row="0" Text="Hemsidegenerator output" Margin="10"                   HorizontalAlignment="Left" VerticalAlignment="Center" Width="800" Height="300"></TextBox>        <StackPanel Orientation="Horizontal" Grid.Row="1">            <Button Name="NyHemsida" Width="100" Click="NyHemsida_Click">Ny hemsida</Button>            <Button Name="LaddaInHemsida" Width="100" Click="LaddaInHemsida_Click">Ladda in hemsida</Button>            <Button Name="Spara" Width="100" Click="Spara_Click">Spara</Button>        </StackPanel>
         
     </Grid>
 </Window>
