@@ -1,0 +1,21 @@
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\bin\Debug\net6.0-windows\WPF EmailChecker.exe
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\bin\Debug\net6.0-windows\WPF EmailChecker.deps.json
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\bin\Debug\net6.0-windows\WPF EmailChecker.runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\bin\Debug\net6.0-windows\WPF EmailChecker.dll
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\bin\Debug\net6.0-windows\WPF EmailChecker.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker_MarkupCompile.cache
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker_MarkupCompile.lref
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.g.resources
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.dll
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\refint\WPF EmailChecker.dll
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\WPF EmailChecker.genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\WPF EmailChecker\obj\Debug\net6.0-windows\ref\WPF EmailChecker.dll

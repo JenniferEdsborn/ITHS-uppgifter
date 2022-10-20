@@ -1,0 +1,15 @@
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\bin\Debug\net6.0\AttGöraLista.exe
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\bin\Debug\net6.0\AttGöraLista.deps.json
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\bin\Debug\net6.0\AttGöraLista.runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\bin\Debug\net6.0\AttGöraLista.dll
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\bin\Debug\net6.0\AttGöraLista.pdb
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.dll
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\refint\AttGöraLista.dll
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.pdb
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\AttGöraLista.genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\AttGöraLista\obj\Debug\net6.0\ref\AttGöraLista.dll
