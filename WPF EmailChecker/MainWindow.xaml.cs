@@ -21,7 +21,7 @@ namespace WPF_EmailChecker
     /// </summary>
     public partial class MainWindow : Window
     {
-        Regex r = new Regex(@"^[a-zA-Z]\w*@\w+\.[a-zA-Z]{2,}$");
+        Regex r = new Regex(@"^[a-zA-Z0-9]\w*@\w+\.[a-zA-Z]{2,}$");
 
         public MainWindow()
         {
