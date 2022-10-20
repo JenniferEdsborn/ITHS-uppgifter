@@ -1,0 +1,21 @@
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\bin\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).exe
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\bin\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).deps.json
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\bin\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\bin\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).dll
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\bin\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).pdb
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers)_MarkupCompile.cache
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers)_MarkupCompile.lref
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).g.resources
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).dll
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\refint\HTML-hemsida WPF (GUI för managers).dll
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).pdb
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\HTML-hemsida WPF (GUI för managers).genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\HTML-hemsida WPF (GUI för managers)\obj\Debug\net6.0-windows\ref\HTML-hemsida WPF (GUI för managers).dll
