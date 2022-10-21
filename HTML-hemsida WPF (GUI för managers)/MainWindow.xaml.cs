@@ -40,7 +40,6 @@ namespace HTML_hemsida_WPF__GUI_för_managers_
                     MainOutput.AppendText($"<p>Kurs i {course.Trim().ToUpper().Substring(0, 1) + course.Trim().Substring(1).ToLower()}<p/>\n");
                 }
             }
-            MainOutput.AppendText("\n");
         }
         public void handleMessages(List<string> messages)
         {
