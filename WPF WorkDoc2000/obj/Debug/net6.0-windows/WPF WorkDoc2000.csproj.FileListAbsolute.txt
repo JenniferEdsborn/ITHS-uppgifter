@@ -1,0 +1,21 @@
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\bin\Debug\net6.0-windows\WPF WorkDoc2000.exe
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\bin\Debug\net6.0-windows\WPF WorkDoc2000.deps.json
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\bin\Debug\net6.0-windows\WPF WorkDoc2000.runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\bin\Debug\net6.0-windows\WPF WorkDoc2000.dll
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\bin\Debug\net6.0-windows\WPF WorkDoc2000.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000_MarkupCompile.cache
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000_MarkupCompile.lref
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.g.resources
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.dll
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\refint\WPF WorkDoc2000.dll
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\WPF WorkDoc2000.genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\WPF WorkDoc2000\obj\Debug\net6.0-windows\ref\WPF WorkDoc2000.dll

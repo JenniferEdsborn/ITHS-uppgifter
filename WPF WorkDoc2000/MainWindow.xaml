@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPF_WorkDoc2000.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_WorkDoc2000"
+        mc:Ignorable="d"
+        Title="WorkDoc2000 v1.0" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <DockPanel Background="LightGray" Grid.Row="0" Grid.ColumnSpan="1" Grid.RowSpan="5">        </DockPanel>        <StackPanel Grid.RowSpan="5">            <Label HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20">WorkDoc2000</Label>            <Button Click="CountWords">Räkna antal ord</Button>            <Button Click="CapitalLetters">Omvandla till versaler</Button>            <Button Click="LowerCase">Omvandla till gemener</Button>            <Button Click="CapitalLetAfterDot">Versal efter punkt</Button>            <Button Click="l33tsp34k">l33tsp34k</Button>            <Button Content="Rövarspråket" Click="Rovarspraket"/>            <Button Click="ReadFromFile">Läs in från textfil</Button>            <Button Click="SaveToFile">Spara till textfil</Button>        </StackPanel>
+        <Button Grid.Column="4" Content="Sudda allt" Grid.Row="4" VerticalAlignment="Top" Click="EraseText"/>
+        <TextBox AcceptsReturn="True" Name="MainTextBox" Grid.Column="1" Grid.ColumnSpan="4" Grid.RowSpan="4" TextWrapping="Wrap" Text="Skriv här!"/>
+    </Grid>
+    
+</Window>
