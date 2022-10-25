@@ -161,7 +161,8 @@ namespace WPF_WorkDoc2000
             for (int i = 0; i < LengthOfText; i++)
             {
                 if (toTranslate[i] == 'a' || toTranslate[i] == 'e' || toTranslate[i] == 'i'
-                    || toTranslate[i] == 'o' || toTranslate[i] == 'u')
+                    || toTranslate[i] == 'o' || toTranslate[i] == 'u' || toTranslate[i] == 'å' 
+                    || toTranslate[i] == 'ö' || toTranslate[i] == 'ä' || toTranslate[i] == 'y')
                 {
                     ConvertedText = ConvertedText + toTranslate[i];
                 }
