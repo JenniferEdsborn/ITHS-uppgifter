@@ -30,7 +30,7 @@ namespace WPF_Tidsrapportering
 
         public override string ToString()
         {
-            return WorkerID + " " + Workdate.ToString() + " " + Work;
+            return $"{WorkerID} {Workdate} {Work}";
         }
     }
 }

@@ -11,19 +11,15 @@
         <TabControl>
             <TabItem Header="Arbetare">
                 <Grid>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="48*"/>
-                        <ColumnDefinition Width="349*"/>
-                    </Grid.ColumnDefinitions>
-                    <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="142,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Auto" Grid.Column="1" />
-                    <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="142,207,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
-                    <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="277,208,0,0" VerticalAlignment="Top" Width="106" SelectedIndex="0" Grid.Column="1"/>
-                    <Label Content="Arbete" HorizontalAlignment="Left" Margin="139,50,0,0" VerticalAlignment="Top" Grid.Column="1"/>
-                    <Label Content="Datum" HorizontalAlignment="Left" Margin="142,176,0,0" VerticalAlignment="Top" Grid.Column="1"/>
-                    <Label Content="Tid" HorizontalAlignment="Left" Margin="277,176,0,0" VerticalAlignment="Top" Grid.Column="1"/>
-                    <Button Content="Lägg till arbete" HorizontalAlignment="Left" Margin="215,266,0,0" VerticalAlignment="Top" Height="40" Width="125" Click="AddWork" Grid.Column="1"/>
-                    <TextBox Name="BoxWorkerID" HorizontalAlignment="Left" Margin="142,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Grid.Column="1"/>
-                    <Label Content="Namn" HorizontalAlignment="Left" Margin="142,10,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+                    <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="231,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Auto" />
+                    <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="232,205,0,0" VerticalAlignment="Top" Width="120"/>
+                    <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="376,207,0,0" VerticalAlignment="Top" Width="106" SelectedIndex="0"/>
+                    <Label Content="Arbete" HorizontalAlignment="Left" Margin="220,50,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Datum" HorizontalAlignment="Left" Margin="231,176,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Tid" HorizontalAlignment="Left" Margin="371,176,0,0" VerticalAlignment="Top"/>
+                    <Button Content="Lägg till arbete" HorizontalAlignment="Left" Margin="304,250,0,0" VerticalAlignment="Top" Height="40" Width="125" Click="AddWork"/>
+                    <TextBox Name="BoxWorkerID" HorizontalAlignment="Left" Margin="231,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241"/>
+                    <Label Content="Namn" HorizontalAlignment="Left" Margin="220,7,0,0" VerticalAlignment="Top"/>
 
                 </Grid>
             </TabItem>
