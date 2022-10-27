@@ -20,7 +20,7 @@ namespace WPF_Tidsrapportering
         {
             if(workerID == "" || work == "")
             {
-                throw new Exception("Du behöver skriva namn och arbete");
+                throw new Exception("Någonting gick fel");
             }
 
             this.WorkerID = workerID;

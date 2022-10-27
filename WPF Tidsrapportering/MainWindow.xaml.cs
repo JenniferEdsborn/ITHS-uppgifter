@@ -47,17 +47,17 @@ namespace WPF_Tidsrapportering
         }
 
         private void AddWork(object sender, RoutedEventArgs e)
-        {           
+        {
+            string[] timeArray = TimeBox.Text.Split(":");
+            int[] timeInt = { Int32.Parse(timeArray[0]),
+                Int32.Parse(timeArray[1])};
+
             try
             {
                 string[] dateArray = WorkDate.Text.Split("-");
                 int[] dateInt = { Int32.Parse(dateArray[0]),
                 Int32.Parse(dateArray[1]),
                 Int32.Parse(dateArray[2]) };
-
-                string[] timeArray = TimeBox.Text.Split(":");
-                int[] timeInt = { Int32.Parse(timeArray[0]),
-                Int32.Parse(timeArray[1])};
 
                 DateTime dateWorked = new DateTime(dateInt[0],
                      dateInt[1],
@@ -73,7 +73,7 @@ namespace WPF_Tidsrapportering
                 MessageBox.Show(ex.Message);
             }
 
-            MessageBox.Show("Jobb tillagt!", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show("Bra jobbat!", "Jobb tillagt", MessageBoxButton.OK, MessageBoxImage.Information);
 
             UpdateContent();
         }
