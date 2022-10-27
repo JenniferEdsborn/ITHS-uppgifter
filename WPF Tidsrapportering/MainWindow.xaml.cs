@@ -67,14 +67,13 @@ namespace WPF_Tidsrapportering
                      0);
 
                 workers.Add(new Worker(BoxWorkerID.Text, TextBox_Work.Text, dateWorked));
+                MessageBox.Show("Bra jobbat!", "Jobb tillagt", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-
-            MessageBox.Show("Bra jobbat!", "Jobb tillagt", MessageBoxButton.OK, MessageBoxImage.Information);
-
+           
             UpdateContent();
         }
 
