@@ -47,25 +47,25 @@ namespace WPF_Tidsrapportering
         }
 
         private void AddWork(object sender, RoutedEventArgs e)
-        {
-            string[] dateArray = WorkDate.Text.Split("-");
-            int[] dateInt = { Int32.Parse(dateArray[0]),
+        {           
+            try
+            {
+                string[] dateArray = WorkDate.Text.Split("-");
+                int[] dateInt = { Int32.Parse(dateArray[0]),
                 Int32.Parse(dateArray[1]),
                 Int32.Parse(dateArray[2]) };
 
-            string[] timeArray = TimeBox.Text.Split(":");
-            int[] timeInt = { Int32.Parse(timeArray[0]),
+                string[] timeArray = TimeBox.Text.Split(":");
+                int[] timeInt = { Int32.Parse(timeArray[0]),
                 Int32.Parse(timeArray[1])};
 
-            DateTime dateWorked = new DateTime(dateInt[0],
-                 dateInt[1],
-                 dateInt[2],
-                 timeInt[0],
-                 timeInt[1],
-                 0);
+                DateTime dateWorked = new DateTime(dateInt[0],
+                     dateInt[1],
+                     dateInt[2],
+                     timeInt[0],
+                     timeInt[1],
+                     0);
 
-            try
-            {
                 workers.Add(new Worker(BoxWorkerID.Text, TextBox_Work.Text, dateWorked));
             }
             catch (Exception ex)
