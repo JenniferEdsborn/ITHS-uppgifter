@@ -8,8 +8,7 @@ using System.Threading.Tasks;
 namespace WPF_Tidsrapportering
 {
     internal class Worker
-    {
-        public List<string> Times= new List<string>();
+    {        
         public DateTime timestart = DateTime.Parse("00:00:00");
         public DateTime timeend = DateTime.Parse("23:45:00");
 
