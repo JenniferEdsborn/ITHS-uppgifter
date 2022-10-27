@@ -9,9 +9,6 @@ namespace WPF_Tidsrapportering
 {
     internal class Worker
     {        
-        public DateTime timestart = DateTime.Parse("00:00:00");
-        public DateTime timeend = DateTime.Parse("23:45:00");
-
         string WorkerID { get; set; }
         string Work { get; set; }
         DateTime Workdate { get; set; }

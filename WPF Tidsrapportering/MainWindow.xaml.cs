@@ -18,17 +18,16 @@ namespace WPF_Tidsrapportering
     public partial class MainWindow : Window
     {
         List<Worker> workers = new List<Worker>();
-        Worker time = new Worker(null,null,DateTime.MinValue);
         List<string> Times = new List<string>();
 
         public MainWindow()
         {
             InitializeComponent();
 
-            for(time.timestart=DateTime.Parse("00:00:00");time.timestart<=time.timeend;)
+            for (DateTime timestart = DateTime.Parse("00:00:00"); timestart <= DateTime.Parse("23:45:00");)
             {
-                time.timestart = time.timestart.AddMinutes(30);
-                Times.Add(time.timestart.AddMinutes(30).ToShortTimeString());                
+                timestart = timestart.AddMinutes(30);
+                Times.Add(timestart.AddMinutes(30).ToShortTimeString());
             }
 
             TimeBox.ItemsSource = Times;
@@ -43,7 +42,6 @@ namespace WPF_Tidsrapportering
 
             BoxWorkerID.Text = "";
             TextBox_Work.Text = "";
-
         }
 
         private void AddWork(object sender, RoutedEventArgs e)
