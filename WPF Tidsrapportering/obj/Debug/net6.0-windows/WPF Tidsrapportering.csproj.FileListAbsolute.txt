@@ -1,0 +1,21 @@
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering_MarkupCompile.cache
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering_MarkupCompile.lref
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\bin\Debug\net6.0-windows\WPF Tidsrapportering.exe
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\bin\Debug\net6.0-windows\WPF Tidsrapportering.deps.json
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\bin\Debug\net6.0-windows\WPF Tidsrapportering.runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\bin\Debug\net6.0-windows\WPF Tidsrapportering.dll
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\bin\Debug\net6.0-windows\WPF Tidsrapportering.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.g.resources
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.dll
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\refint\WPF Tidsrapportering.dll
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\WPF Tidsrapportering.genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\WPF Tidsrapportering\obj\Debug\net6.0-windows\ref\WPF Tidsrapportering.dll
