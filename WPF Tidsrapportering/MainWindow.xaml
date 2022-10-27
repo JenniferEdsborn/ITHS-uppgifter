@@ -7,18 +7,32 @@
         mc:Ignorable="d"
         Title="Tidsbokning" Height="450" Width="800">
     <Grid>
-        
-        <ListBox Name="Result_ListBox" Margin="527,0,0,0"/>
-        <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="50,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Auto" />
-        <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="50,210,0,0" VerticalAlignment="Top" Width="120"/>
-        <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="185,212,0,0" VerticalAlignment="Top" Width="106" SelectedIndex="0"/>
-        <Label Content="Arbete" HorizontalAlignment="Left" Margin="41,50,0,0" VerticalAlignment="Top"/>
-        <Label Content="Datum" HorizontalAlignment="Left" Margin="41,179,0,0" VerticalAlignment="Top"/>
-        <Label Content="Tid" HorizontalAlignment="Left" Margin="185,179,0,0" VerticalAlignment="Top"/>
-        <Button Content="Lägg till arbete" HorizontalAlignment="Left" Margin="57,303,0,0" VerticalAlignment="Top" Height="31" Width="106" Click="AddWork"/>
-        <TextBox Name="BoxWorkerID" HorizontalAlignment="Left" Margin="50,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241"/>
-        <Label Content="Namn" HorizontalAlignment="Left" Margin="41,6,0,0" VerticalAlignment="Top"/>
-        <Button Content="Ta bort" HorizontalAlignment="Left" Margin="416,369,0,0" VerticalAlignment="Top" Height="31" Width="86" Click="RemoveWork"/>
+        <TabControl>
+            <TabItem Header="Arbetare">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="48*"/>
+                        <ColumnDefinition Width="349*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="50,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2" />
+                    <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="50,210,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+                    <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="89,212,0,0" VerticalAlignment="Top" Width="106" SelectedIndex="0" Grid.Column="1"/>
+                    <Label Content="Arbete" HorizontalAlignment="Left" Margin="41,50,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Datum" HorizontalAlignment="Left" Margin="41,179,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Tid" HorizontalAlignment="Left" Margin="89,179,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+                    <Button Content="Lägg till arbete" HorizontalAlignment="Left" Margin="57,303,0,0" VerticalAlignment="Top" Height="31" Width="106" Click="AddWork" Grid.ColumnSpan="2"/>
+                    <TextBox Name="BoxWorkerID" HorizontalAlignment="Left" Margin="50,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Grid.ColumnSpan="2"/>
+                    <Label Content="Namn" HorizontalAlignment="Left" Margin="41,6,0,0" VerticalAlignment="Top"/>
 
+                </Grid>
+            </TabItem>
+            <TabItem Header="Manager">
+                <Grid Background="#FFE5E5E5">
+                    <ListBox Name="Result_ListBox" Margin="162,30,30,0"/>
+                    <Button Content="Ta bort" HorizontalAlignment="Left" Margin="35,55,0,0" VerticalAlignment="Top" Height="31" Width="86" Click="RemoveWork"/>
+                    <Label Content="Loggade tider" HorizontalAlignment="Left" Margin="162,4,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

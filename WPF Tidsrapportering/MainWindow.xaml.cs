@@ -37,7 +37,11 @@ namespace WPF_Tidsrapportering
         public void UpdateContent()
         {
             Result_ListBox.ItemsSource = null;
-            Result_ListBox.ItemsSource = workers;            
+            Result_ListBox.ItemsSource = workers;
+
+            BoxWorkerID.Text = "";
+            TextBox_Work.Text = "";
+
         }
 
         private void AddWork(object sender, RoutedEventArgs e)
@@ -68,8 +72,9 @@ namespace WPF_Tidsrapportering
             {
                 MessageBox.Show(ex.Message);
             }
-            
-            Result_ListBox.ItemsSource = workers;
+
+            MessageBox.Show("Jobb tillagt!", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+
             UpdateContent();
         }
 
@@ -81,7 +86,7 @@ namespace WPF_Tidsrapportering
             }
             catch
             {
-                MessageBox.Show("Något gick fel", "Fel", MessageBoxButton.OK, MessageBoxImage.Warning);
+                MessageBox.Show("Något gick fel", "Fel", MessageBoxButton.OK, MessageBoxImage.Information);
             }
 
         }
