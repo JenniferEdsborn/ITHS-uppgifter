@@ -19,6 +19,11 @@ namespace WPF_Tidsrapportering
 
         public Worker(string workerID, string work, DateTime workdate)
         {
+            if(workerID == "" || work == "")
+            {
+                throw new Exception("Du behöver skriva namn och arbete");
+            }
+
             this.WorkerID = workerID;
             this.Work = work;
             this.Workdate = workdate;

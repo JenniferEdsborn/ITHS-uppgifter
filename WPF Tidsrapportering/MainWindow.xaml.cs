@@ -22,12 +22,16 @@ namespace WPF_Tidsrapportering
         public MainWindow()
         {
             InitializeComponent();
+
             for(time.timestart=DateTime.Parse("00:00:00");time.timestart<=time.timeend;)
             {
                 time.timestart=time.timestart.AddMinutes(30);
                 time.Times.Add(time.timestart.AddMinutes(30).ToShortTimeString());
                 TimeBox.ItemsSource=time.Times;
             }
+
+            this.WorkDate.SelectedDate = DateTime.Now;
+
         }
 
         public void UpdateContent()
@@ -38,6 +42,8 @@ namespace WPF_Tidsrapportering
 
         private void AddWork(object sender, RoutedEventArgs e)
         {
+
+
             string[] dateArray = WorkDate.Text.Split("-");
             int[] dateInt = { Int32.Parse(dateArray[0]),
                 Int32.Parse(dateArray[1]),
@@ -54,10 +60,30 @@ namespace WPF_Tidsrapportering
                  timeInt[1],
                  0);
 
-            workers.Add(new Worker(BoxWorkerID.Text, TextBox_Work.Text, dateWorked));
-
+            try
+            {
+                workers.Add(new Worker(BoxWorkerID.Text, TextBox_Work.Text, dateWorked));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
             Result_ListBox.ItemsSource = workers;
             UpdateContent();
+        }
+
+        private void RemoveWork(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                workers.RemoveAt(Result_ListBox.SelectedIndex);
+            }
+            catch
+            {
+                MessageBox.Show("Något gick fel", "Fel", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+
         }
     }    
 }

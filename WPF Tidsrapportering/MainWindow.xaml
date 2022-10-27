@@ -7,16 +7,18 @@
         mc:Ignorable="d"
         Title="Tidsbokning" Height="450" Width="800">
     <Grid>
+        
         <ListBox Name="Result_ListBox" Margin="527,0,0,0"/>
-        <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="50,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93"/>
-        <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="50,0,0,0" VerticalAlignment="Center" Width="120"/>
-        <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="50,265,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TextBox_Work" HorizontalAlignment="Left" Margin="50,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" Height="93" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Auto" />
+        <DatePicker Name="WorkDate" HorizontalAlignment="Left" Margin="50,210,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="TimeBox" HorizontalAlignment="Left" Margin="185,212,0,0" VerticalAlignment="Top" Width="106" SelectedIndex="0"/>
         <Label Content="Arbete" HorizontalAlignment="Left" Margin="41,50,0,0" VerticalAlignment="Top"/>
-        <Label Content="Datum" HorizontalAlignment="Left" Margin="41,174,0,0" VerticalAlignment="Top"/>
-        <Label Content="Tid" HorizontalAlignment="Left" Margin="38,234,0,0" VerticalAlignment="Top"/>
-        <Button Content="Add work" HorizontalAlignment="Left" Margin="64,303,0,0" VerticalAlignment="Top" Height="31" Width="75" Click="AddWork"/>
+        <Label Content="Datum" HorizontalAlignment="Left" Margin="41,179,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tid" HorizontalAlignment="Left" Margin="185,179,0,0" VerticalAlignment="Top"/>
+        <Button Content="Lägg till arbete" HorizontalAlignment="Left" Margin="57,303,0,0" VerticalAlignment="Top" Height="31" Width="106" Click="AddWork"/>
         <TextBox Name="BoxWorkerID" HorizontalAlignment="Left" Margin="50,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241"/>
         <Label Content="Namn" HorizontalAlignment="Left" Margin="41,6,0,0" VerticalAlignment="Top"/>
+        <Button Content="Ta bort" HorizontalAlignment="Left" Margin="416,369,0,0" VerticalAlignment="Top" Height="31" Width="86" Click="RemoveWork"/>
 
     </Grid>
 </Window>
