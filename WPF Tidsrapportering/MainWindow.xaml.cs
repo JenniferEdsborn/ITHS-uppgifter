@@ -85,7 +85,7 @@ namespace WPF_Tidsrapportering
             {
                 MessageBox.Show("Något gick fel", "Fel", MessageBoxButton.OK, MessageBoxImage.Information);
             }
-
+            UpdateContent();
         }
     }    
 }
