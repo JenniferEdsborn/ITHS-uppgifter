@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPF - Dagens Väderdata/1.0.0": {
+        "runtime": {
+          "WPF - Dagens Väderdata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF - Dagens Väderdata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

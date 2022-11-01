@@ -1,0 +1,21 @@
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\bin\Debug\net6.0-windows\WPF - Dagens Väderdata.exe
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\bin\Debug\net6.0-windows\WPF - Dagens Väderdata.deps.json
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\bin\Debug\net6.0-windows\WPF - Dagens Väderdata.runtimeconfig.json
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\bin\Debug\net6.0-windows\WPF - Dagens Väderdata.dll
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\bin\Debug\net6.0-windows\WPF - Dagens Väderdata.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata_MarkupCompile.cache
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata_MarkupCompile.lref
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.g.resources
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.dll
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\refint\WPF - Dagens Väderdata.dll
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.pdb
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\WPF - Dagens Väderdata.genruntimeconfig.cache
+E:\Visual Code 2020\ITHS-projekt\WPF - Dagens Väderdata\obj\Debug\net6.0-windows\ref\WPF - Dagens Väderdata.dll
