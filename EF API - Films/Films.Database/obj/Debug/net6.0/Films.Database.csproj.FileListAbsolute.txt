@@ -1,0 +1,30 @@
+E:\Visual Code 2020\Films\Films.Database\bin\Debug\net6.0\Films.Database.deps.json
+E:\Visual Code 2020\Films\Films.Database\bin\Debug\net6.0\Films.Database.dll
+E:\Visual Code 2020\Films\Films.Database\bin\Debug\net6.0\Films.Database.pdb
+E:\Visual Code 2020\Films\Films.Database\bin\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\Films\Films.Database\bin\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.AssemblyReference.cache
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.AssemblyInfoInputs.cache
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.AssemblyInfo.cs
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.CopyComplete
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.dll
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\refint\Films.Database.dll
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\Films.Database.pdb
+E:\Visual Code 2020\Films\Films.Database\obj\Debug\net6.0\ref\Films.Database.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\bin\Debug\net6.0\Films.Database.deps.json
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\bin\Debug\net6.0\Films.Database.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\bin\Debug\net6.0\Films.Database.pdb
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\bin\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\bin\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.csproj.CopyComplete
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\refint\Films.Database.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\Films.Database.pdb
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Database\obj\Debug\net6.0\ref\Films.Database.dll

@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Mvc;
+global using AutoMapper;
+global using Films.Database.Contexts;
+global using Films.Database.Entities;
+global using Films.Database.Interfaces;
+global using Films.Database.Services;
+global using Films.Common.DTOs;
+//global using Films.API.Extensions;

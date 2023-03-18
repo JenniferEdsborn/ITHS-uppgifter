@@ -1,0 +1,24 @@
+E:\Visual Code 2020\Films\Films.Common\bin\Debug\net6.0\Films.Common.deps.json
+E:\Visual Code 2020\Films\Films.Common\bin\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\Films\Films.Common\bin\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.csproj.AssemblyReference.cache
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.AssemblyInfoInputs.cache
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.AssemblyInfo.cs
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\refint\Films.Common.dll
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\Films\Films.Common\obj\Debug\net6.0\ref\Films.Common.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\bin\Debug\net6.0\Films.Common.deps.json
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\bin\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\bin\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.csproj.AssemblyReference.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.AssemblyInfoInputs.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.AssemblyInfo.cs
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\refint\Films.Common.dll
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\Films.Common.pdb
+E:\Visual Code 2020\ITHS-projekt\EF API - Films\Films.Common\obj\Debug\net6.0\ref\Films.Common.dll
