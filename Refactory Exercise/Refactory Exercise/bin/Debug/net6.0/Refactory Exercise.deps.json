@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Refactory Exercise/1.0.0": {
+        "runtime": {
+          "Refactory Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Refactory Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

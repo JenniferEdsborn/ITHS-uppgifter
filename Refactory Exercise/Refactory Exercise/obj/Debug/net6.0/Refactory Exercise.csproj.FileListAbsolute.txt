@@ -1,0 +1,15 @@
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\bin\Debug\net6.0\Refactory Exercise.exe
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\bin\Debug\net6.0\Refactory Exercise.deps.json
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\bin\Debug\net6.0\Refactory Exercise.runtimeconfig.json
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\bin\Debug\net6.0\Refactory Exercise.dll
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\bin\Debug\net6.0\Refactory Exercise.pdb
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.csproj.AssemblyReference.cache
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.AssemblyInfoInputs.cache
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.AssemblyInfo.cs
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.csproj.CoreCompileInputs.cache
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.dll
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\refint\Refactory Exercise.dll
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.pdb
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\Refactory Exercise.genruntimeconfig.cache
+F:\Visual Code 2020\ITHS-projekt\Refactory Exercise\Refactory Exercise\obj\Debug\net6.0\ref\Refactory Exercise.dll
