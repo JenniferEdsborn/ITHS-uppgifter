@@ -8,10 +8,10 @@ public class DoubleStack : IDoubleStack
     private double[] stackDataStorage;
     private int currentSizeOfStack;
 
-    public DoubleStack(double[] stackDataStorage, int currentSizeOfStack)
+    public DoubleStack(int initialSize)
     {
-        this.stackDataStorage = stackDataStorage;
-        this.currentSizeOfStack = currentSizeOfStack;
+        this.stackDataStorage = new double[initialSize];
+        this.currentSizeOfStack = 0;
     }
 
     public int CurrentSizeOfStack
@@ -32,8 +32,7 @@ public class DoubleStack : IDoubleStack
         }
         else
         {
-            Console.WriteLine("stack empty, returning 0");
-            return 0;
+            throw new InvalidOperationException("Stack is empty");
         }
     }
 
@@ -45,8 +44,7 @@ public class DoubleStack : IDoubleStack
         }
         else
         {
-            Console.WriteLine("stack empty, returning 0");
-            return 0;
+            throw new InvalidOperationException("Stack is empty");
         }
     }
 
@@ -57,6 +55,8 @@ public class DoubleStack : IDoubleStack
 
     public override string ToString()
     {
+        if (currentSizeOfStack == 0) return "[]";
+
         var stringBuilder = new StringBuilder();
         stringBuilder.Append('[');
 

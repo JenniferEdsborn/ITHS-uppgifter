@@ -7,7 +7,6 @@ namespace Refactory_Exercise
     {
         private readonly IDoubleStack doubleStack;
         private readonly IConsoleIO consoleIO;
-        public string userInput = "";
 
         public CalculatorController(IDoubleStack doubleStack, IConsoleIO consoleIO)
         {
@@ -28,50 +27,46 @@ namespace Refactory_Exercise
         {
             while(true)
             {
-                if (doubleStack.CurrentSizeOfStack == 0)
-                {
-                    consoleIO.PrintString("[]");
-                }
-                else
-                {
-                    consoleIO.PrintString(doubleStack.ToString());
-                }
+                consoleIO.PrintString(doubleStack.ToString());
 
-                userInput = consoleIO.GetUserInput();
+                string userInput = consoleIO.GetUserInput();
                 
                 if (consoleIO.IsNumber(userInput))
                 {
                     doubleStack.Push(consoleIO.ConvertToDouble(userInput));
+                    continue;
                 }
 
-                else if (userInput.Length > 0)
+                if (userInput.Length == 0)
                 {
-                    switch (userInput[0])
-                    {
-                        case '+':
-                            doubleStack.Push(doubleStack.Pop() + doubleStack.Pop());
-                            break;
-                        case '*':
-                            doubleStack.Push(doubleStack.Pop() * doubleStack.Pop());
-                            break;
-                        case '-':
-                            double valueToSubtract = doubleStack.Pop();
-                            doubleStack.Push(doubleStack.Pop() - valueToSubtract);
-                            break;
-                        case '/':
-                            double valueToDivide = doubleStack.Pop();
-                            doubleStack.Push(doubleStack.Pop() / valueToDivide);
-                            break;
-                        case 'c':
-                            doubleStack.Clear();
-                            break;
-                        case 'q':
-                            consoleIO.Exit();
-                            break;
-                        default:
-                            Console.WriteLine("Illegal command, ignored");
-                            break;
-                    }
+                    continue;
+                }
+
+                switch (userInput[0])
+                {
+                    case '+':
+                        doubleStack.Push(doubleStack.Pop() + doubleStack.Pop());
+                        break;
+                    case '*':
+                        doubleStack.Push(doubleStack.Pop() * doubleStack.Pop());
+                        break;
+                    case '-':
+                        double valueToSubtract = doubleStack.Pop();
+                        doubleStack.Push(doubleStack.Pop() - valueToSubtract);
+                        break;
+                    case '/':
+                        double valueToDivide = doubleStack.Pop();
+                        doubleStack.Push(doubleStack.Pop() / valueToDivide);
+                        break;
+                    case 'c':
+                        doubleStack.Clear();
+                        break;
+                    case 'q':
+                        consoleIO.Exit();
+                        break;
+                    default:
+                        Console.WriteLine("Illegal command, ignored");
+                        break;
                 }
             } 
         }

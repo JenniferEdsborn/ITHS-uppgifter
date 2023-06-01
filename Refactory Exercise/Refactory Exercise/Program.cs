@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        IDoubleStack doubleStack = new DoubleStack(new double[1000], 0);
+        IDoubleStack doubleStack = new DoubleStack(1000);
         IConsoleIO consoleIO = new ConsoleIO();
         ICalculatorController controller = new CalculatorController(doubleStack, consoleIO);
 
