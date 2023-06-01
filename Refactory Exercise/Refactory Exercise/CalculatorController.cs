@@ -17,8 +17,8 @@ namespace Refactory_Exercise
         public void StartProgram()
         {
             consoleIO.PrintString("Welcome to the RNP Calculator.");
-            consoleIO.PrintString("Commands:\nQ to quit\nc to Clear\n");
-            consoleIO.PrintString("Input numbers and + ' * /\n");
+            consoleIO.PrintString("Commands:\nQ to quit\nC to Clear\n");
+            consoleIO.PrintString("Input numbers and + - * /\n");
 
             RunCalculatorRPN();
         }
