@@ -32,7 +32,8 @@ public class DoubleStack : IDoubleStack
         }
         else
         {
-            throw new InvalidOperationException("Stack is empty");
+            Console.WriteLine("stack empty, returning 0");
+            return 0;
         }
     }
 
@@ -44,7 +45,8 @@ public class DoubleStack : IDoubleStack
         }
         else
         {
-            throw new InvalidOperationException("Stack is empty");
+            Console.WriteLine("stack empty, returning 0");
+            return 0;
         }
     }
 
