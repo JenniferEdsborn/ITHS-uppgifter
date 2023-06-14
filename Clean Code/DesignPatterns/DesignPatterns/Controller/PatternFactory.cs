@@ -1,8 +1,11 @@
 ﻿using DesignPatterns.ConsoleIO;
 using DesignPatterns.Patterns;
 using DesignPatterns.Patterns.BuilderPattern;
+using DesignPatterns.Patterns.FacadePattern;
 using DesignPatterns.Patterns.FactoryMethodPattern;
 using DesignPatterns.Patterns.IteratorPattern;
+using DesignPatterns.Patterns.ObserverPattern;
+using DesignPatterns.Patterns.ProxyPattern;
 using DesignPatterns.Patterns.SingletonPattern;
 
 namespace DesignPatterns.Controller
@@ -26,12 +29,12 @@ namespace DesignPatterns.Controller
                     return new FactoryMethodPatternDemo(io);
                 case "Iterator":
                     return new IteratorPatternDemo(io);
-                //case "Facade":
-                //    return new FacadePatternDemo(io);
-                //case "Proxy":
-                //    return new ProxyPatternDemo(io);
-                //case "Observer":
-                //    return new ObserverPatternDemo(io);
+                case "Facade":
+                    return new FacadePatternDemo(io);
+                case "Proxy":
+                    return new ProxyPatternDemo(io);
+                case "Observer":
+                    return new ObserverPatternDemo(io);
                 case "Builder":
                     return new BuilderPatternDemo(io);
                 default:
